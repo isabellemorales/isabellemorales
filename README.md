@@ -1,4 +1,4 @@
-## Olá, sou a Isabelle!
+## Olá, sou a Isabelle Morales!
 <div>
   <a href="https://github.com/isabellemorales/isabellemorales">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=isabellemorales&theme=radical&show_icons=true"/>
