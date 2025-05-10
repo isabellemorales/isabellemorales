@@ -19,7 +19,7 @@ Hoje, trago essa bagagem para a tecnologia, desenvolvendo aplicações web compl
 
 ---
 
-### 🔥 GitHub Stats
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellemorales&show_icons=true&theme=radical"/>
@@ -28,7 +28,7 @@ Hoje, trago essa bagagem para a tecnologia, desenvolvendo aplicações web compl
 
 ---
 
-### 🛠️ Tecnologias que uso
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isabelle-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -40,9 +40,7 @@ Hoje, trago essa bagagem para a tecnologia, desenvolvendo aplicações web compl
   <img align="center" alt="Isabelle-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
----
-
-### 📫 Onde me encontrar
+--
 
 <div>
   <a href="mailto:isabellemoralesp@gmail.com">
