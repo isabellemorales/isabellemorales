@@ -1,4 +1,4 @@
-  ## ✨ Olá! Eu sou a Isabelle Morales ✨
+  ##✨ Olá! Eu sou a Isabelle Morales ✨
 
 <p align="center">
 🎓 Formada em Design de Moda | 🎯 Desenvolvedora Full Stack em formação  
@@ -54,4 +54,3 @@ Hoje, trago essa bagagem para a tecnologia, desenvolvendo aplicações web compl
 ---
 
 <p align="center">Obrigada por visitar meu perfil! 💙</p>
-<p align="center"><i>“Criatividade é a inteligência se divertindo” — Albert Einstein</i></p>
