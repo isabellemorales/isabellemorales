@@ -1,4 +1,4 @@
-  ##✨ Olá! Eu sou a Isabelle Morales ✨
+## <p align="center"> ✨ Olá! Eu sou a Isabelle Morales ✨
 
 <p align="center">
 🎓 Formada em Design de Moda | 🎯 Desenvolvedora Full Stack em formação  
