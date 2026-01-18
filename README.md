@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou graduada em **Design de Moda** e atualmente estou no **2º semestre de Análise e Desenvolvimento de Sistemas** pelo SENAI. Minha trajetória une criatividade, tecnologia e negócios antes de migrar para o desenvolvimento de software, atuei com:
+Sou graduada em **Design de Moda** e atualmente estou no **3º semestre de Análise e Desenvolvimento de Sistemas** pelo SENAI. Minha trajetória une criatividade, tecnologia e negócios antes de migrar para o desenvolvimento de software, atuei com:
 
 - Produção de conteúdo digital
 - Automação de atendimentos (WhatsApp e Instagram)
