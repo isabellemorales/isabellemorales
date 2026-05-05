@@ -22,8 +22,8 @@ Hoje, trago essa bagagem para a tecnologia, desenvolvendo aplicações web compl
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellemorales&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellemorales&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-isabellemorales.vercel.app/api?username=isabellemorales&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-isabellemorales.vercel.app/api/top-langs/?username=isabellemorales&layout=compact&theme=radical"/>
 </div>
 
 ---
