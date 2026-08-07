@@ -14,11 +14,9 @@
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23FF638E" width="28" valign="middle" />  Sobre Mim / Core Profile
 
-> load_bio.sh
-
 <img src="https://api.iconify.design/lucide:palette.svg?color=%23FF638E" width="18" valign="middle" /> <b>Background:</b> Graduada em Design de Moda
 
-<img src="https://api.iconify.design/lucide:code-2.svg?color=%23FF638E" width="18" valign="middle" /> <b>Formação Atual:</b> 3º Semestre de Análise e Desenvolvimento de Sistemas (SENAI)
+<img src="https://api.iconify.design/lucide:code-2.svg?color=%23FF638E" width="18" valign="middle" /> <b>Formação Atual:</b> 4º Semestre de Análise e Desenvolvimento de Sistemas (SENAI)
 
 <img src="https://api.iconify.design/lucide:layers.svg?color=%23FF638E" width="18" valign="middle" /> <b>Atuação:</b> Produção de conteúdo digital, Automação (WhatsApp & Instagram), Consultoria de Imagem
 
