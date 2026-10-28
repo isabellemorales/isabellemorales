@@ -1,56 +1,86 @@
-## <p align="center"> ✨ Olá! Eu sou a Isabelle Morales ✨
+# Isabelle Morales
 
 <p align="center">
-🎓 Formada em Design de Moda | 🎯 Desenvolvedora Full Stack em formação  
-💡 Unindo criatividade, estratégia e tecnologia para criar soluções digitais com propósito
+  <strong>Tecnologia | Inteligência Artificial | Dados | Automação de Processos</strong>
+  <br><br>
+  Transformando desafios de negócio em soluções tecnológicas eficientes e inteligentes.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isabellemorales/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:isabellemoralesp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 </p>
 
 ---
 
-### 👩‍💻 Sobre mim
+## Sobre mim
 
-Sou graduada em **Design de Moda** e atualmente estou no **4º semestre de Análise e Desenvolvimento de Sistemas** pelo SENAI. Minha trajetória une criatividade, tecnologia e negócios antes de migrar para o desenvolvimento de software, atuei com:
+Sou graduada em **Design de Moda** e construí minha trajetória profissional entre marketing, produção de conteúdo, atendimento ao cliente e tecnologia. Essa experiência me proporcionou uma visão estratégica sobre processos, comunicação e necessidades de negócio.
 
-- Produção de conteúdo digital
-- Automação de atendimentos (WhatsApp e Instagram)
-- Consultoria de imagem e comunicação no setor de moda
+Atualmente, atuo como **Estagiária de Tecnologia na Aramis**, ampliando meus conhecimentos sobre o uso de tecnologia, Inteligência Artificial e automação na resolução de desafios empresariais.
 
-Hoje, trago essa bagagem para a tecnologia, desenvolvendo aplicações web completas com foco em **usabilidade**, **performance** e **experiência do usuário**.
+Minha trajetória acadêmica começou em **Análise e Desenvolvimento de Sistemas (ADS)** e agora inicio uma nova etapa com a graduação em **Sistemas de Informação pela GRAN**, aprofundando meus conhecimentos em desenvolvimento de software, dados e sistemas empresariais.
+
+Meu objetivo é desenvolver soluções que simplifiquem processos, otimizem operações e gerem valor para as organizações, conectando pensamento analítico, criatividade e conhecimento técnico.
+
+## Áreas de interesse
+
+- Inteligência Artificial e IA Generativa
+- Automação de Processos e RPA
+- Análise e Engenharia de Dados
+- Desenvolvimento de Software
+- Banco de Dados e Integração de Sistemas
+- Tecnologia aplicada aos negócios
+
+## Tecnologias e ferramentas
+
+**Linguagens e desenvolvimento**
+
+<p>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
+</p>
+
+**Banco de dados, versionamento e design**
+
+<p>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma">
+</p>
+
+## Projetos e experiências práticas
+
+Meus projetos acadêmicos e pessoais exploram o desenvolvimento de aplicações, a organização de dados e a integração entre sistemas.
+
+- **Desenvolvimento Web:** criação de interfaces e aplicações com HTML, CSS e JavaScript.
+- **Banco de Dados:** modelagem relacional, consultas SQL e utilização do MySQL.
+- **Automação e IoT:** experimentação com Node-RED, MQTT, monitoramento de dados e integração de sistemas.
+- **Inteligência Artificial:** estudo de agentes inteligentes e aplicações de IA para otimização de processos empresariais.
+
+## Formação acadêmica
+
+- **Sistemas de Informação** — GRAN | Iniciando a graduação.
+- **Análise e Desenvolvimento de Sistemas** — SENAI / Faculdade SENAI Armando de Arruda Pereira.
+- **Design de Moda** — Universidade Anhembi Morumbi | Graduação concluída.
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-isabellemorales.vercel.app/api?username=isabellemorales&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats-isabellemorales.vercel.app/api/top-langs/?username=isabellemorales&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas">
+</p>
 
 ---
 
-
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-isabellemorales.vercel.app/api?username=isabellemorales&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-isabellemorales.vercel.app/api/top-langs/?username=isabellemorales&layout=compact&theme=radical"/>
-</div>
-
----
-
-
-
-<div style="display: inline_block"><br>
-  <img width="40px" alt="Isabelle-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img width="40px" alt="Isabelle-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img width="40px" alt="Isabelle-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img width="40px" alt="Isabelle-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="40px" alt="Isabelle-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img width="40px" alt="Isabelle-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img width="40px" alt="Isabelle-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-</div>
-
----
-
-<div>
-  <a href="mailto:isabellemoralesp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/isabellemorales/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
-
----
-
-<p align="center">Obrigada por visitar meu perfil! 💙</p>
+<p align="center">
+  <i>Aprendizado contínuo, inovação e tecnologia orientada a resultados.</i>
+</p>
