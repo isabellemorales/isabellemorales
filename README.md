@@ -43,18 +43,6 @@
 
 ---
 
-<h2>Áreas de interesse</h2>
-
-<ul>
-  <li>Inteligência Artificial e IA Generativa</li>
-  <li>Automação de Processos e RPA</li>
-  <li>Análise e Engenharia de Dados</li>
-  <li>Desenvolvimento de Software</li>
-  <li>Banco de Dados e Integração de Sistemas</li>
-  <li>Tecnologia aplicada aos negócios</li>
-</ul>
-
-
 <h2>Contato</h2>
 
 <p>
